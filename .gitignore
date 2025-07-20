@@ -8,4 +8,11 @@ wheels/
 
 # Virtual environments
 .venv
+
+
+#environment variables.env
+.env.local
+.env.development
+.env.production
+.env.test
 .env
